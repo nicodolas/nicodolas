@@ -1,0 +1,243 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 320" width="100%" height="320">
+  <defs>
+    <!-- Radial Gradients for Nebula -->
+    <radialGradient id="nebula-cyan" cx="50%" cy="50%" r="50%">
+      <stop id="cyan-stop-1" offset="0%" stop-color="#6EA4B8" stop-opacity="0.2" />
+      <stop id="cyan-stop-2" offset="100%" stop-color="#6EA4B8" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="nebula-pink" cx="50%" cy="50%" r="50%">
+      <stop id="pink-stop-1" offset="0%" stop-color="#B85B88" stop-opacity="0.15" />
+      <stop id="pink-stop-2" offset="100%" stop-color="#B85B88" stop-opacity="0" />
+    </radialGradient>
+    <radialGradient id="nebula-purple" cx="50%" cy="50%" r="50%">
+      <stop id="purple-stop-1" offset="0%" stop-color="#9B84B2" stop-opacity="0.15" />
+      <stop id="purple-stop-2" offset="100%" stop-color="#9B84B2" stop-opacity="0" />
+    </radialGradient>
+
+    <!-- Linear Gradient for Text -->
+    <linearGradient id="text-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#A9D6E5" />
+      <stop offset="50%" stop-color="#D8B4F8" />
+      <stop offset="100%" stop-color="#FFC6FF" />
+    </linearGradient>
+
+    <!-- Glowing Filters -->
+    <filter id="glow-cyan" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="5" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <filter id="glow-neon" x="-30%" y="-30%" width="160%" height="160%">
+      <feGaussianBlur stdDeviation="8" result="blur" />
+      <feComponentTransfer in="blur" result="boost">
+        <feFuncA type="linear" slope="2"/>
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode in="boost" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+
+    <!-- Embedded CSS Animation Styles -->
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@800&amp;family=Share+Tech+Mono&amp;display=swap');
+
+      /* Twinkling Stars */
+      .star {
+        fill: #A8B2C1;
+        animation: twinkle 4s infinite ease-in-out;
+        transform-origin: center;
+      }
+      .star-s1 { animation-delay: 0s; }
+      .star-s2 { animation-delay: 1s; }
+      .star-s3 { animation-delay: 2s; }
+      .star-s4 { animation-delay: 3s; }
+
+      @keyframes twinkle {
+        0%, 100% { opacity: 0.1; transform: scale(0.6); }
+        50% { opacity: 0.9; transform: scale(1.3); }
+      }
+
+      /* Slow Rotating Nebula */
+      .nebula-container {
+        transform-origin: 450px 160px;
+        animation: rotate-nebula 30s infinite linear;
+      }
+      @keyframes rotate-nebula {
+        from { transform: rotate(0deg); }
+        to { transform: rotate(360deg); }
+      }
+
+      /* Holographic HUD Sweeper */
+      .hud-ring {
+        transform-origin: 450px 160px;
+        stroke: #6EA4B8;
+        stroke-opacity: 0.35;
+        fill: none;
+      }
+      .hud-ring-inner {
+        animation: rotate-hud-ccw 25s infinite linear;
+      }
+      .hud-ring-outer {
+        animation: rotate-hud-cw 40s infinite linear;
+      }
+      @keyframes rotate-hud-cw {
+        from { transform: rotate(0deg); }
+        to { transform: rotate(360deg); }
+      }
+      @keyframes rotate-hud-ccw {
+        from { transform: rotate(360deg); }
+        to { transform: rotate(0deg); }
+      }
+
+      /* Pulsing Radar Line */
+      .radar-sweep {
+        transform-origin: 450px 160px;
+        stroke: #6EA4B8;
+        stroke-opacity: 0.45;
+        stroke-width: 1;
+        animation: rotate-hud-cw 8s infinite linear;
+      }
+
+      /* Neon Text Styles */
+      .main-title {
+        font-family: 'Orbitron', sans-serif;
+        font-weight: 800;
+        font-size: 72px;
+        fill: #B85B88;
+        filter: drop-shadow(0 0 6px rgba(184, 91, 136, 0.45));
+        text-anchor: middle;
+        letter-spacing: 12px;
+      }
+      .tagline {
+        font-family: 'Share Tech Mono', monospace;
+        font-size: 16px;
+        fill: #6D558A;
+        text-anchor: middle;
+        letter-spacing: 5px;
+        animation: pulse 2.5s infinite ease-in-out;
+      }
+      @keyframes pulse {
+        0%, 100% { opacity: 0.7; }
+        50% { opacity: 1; }
+      }
+
+      /* Glowing Cosmic Grid */
+      .grid-lines {
+        stroke: #9B84B2;
+        stroke-opacity: 0.15;
+        stroke-width: 0.5;
+      }
+
+      /* Central coordinate ring */
+      .coord-ring {
+        stroke: #6EA4B8;
+        stroke-opacity: 0.12;
+        fill: none;
+      }
+
+      /* Dark Mode overrides */
+      @media (prefers-color-scheme: dark) {
+        .star {
+          fill: #ffffff;
+        }
+        .hud-ring {
+          stroke: #A9D6E5;
+          stroke-opacity: 0.25;
+        }
+        .radar-sweep {
+          stroke: #A9D6E5;
+          stroke-opacity: 0.35;
+        }
+        .main-title {
+          fill: #FFC6FF;
+          filter: drop-shadow(0 0 10px rgba(255, 198, 255, 0.6));
+        }
+        .tagline {
+          fill: #E2D4F0;
+        }
+        .grid-lines {
+          stroke: #D8B4F8;
+          stroke-opacity: 0.1;
+        }
+        .coord-ring {
+          stroke: #A9D6E5;
+          stroke-opacity: 0.08;
+        }
+        #cyan-stop-1 { stop-color: #A9D6E5; stop-opacity: 0.3; }
+        #cyan-stop-2 { stop-color: #A9D6E5; }
+        #pink-stop-1 { stop-color: #FFC6FF; stop-opacity: 0.25; }
+        #pink-stop-2 { stop-color: #FFC6FF; }
+        #purple-stop-1 { stop-color: #D8B4F8; stop-opacity: 0.25; }
+        #purple-stop-2 { stop-color: #D8B4F8; }
+      }
+    </style>
+  </defs>
+
+  <!-- Deep Cosmic Background Grid (for depth) -->
+  <g class="grid-lines">
+    <!-- Vertical Grid lines -->
+    <line x1="50" y1="0" x2="50" y2="320" />
+    <line x1="150" y1="0" x2="150" y2="320" />
+    <line x1="250" y1="0" x2="250" y2="320" />
+    <line x1="350" y1="0" x2="350" y2="320" />
+    <line x1="450" y1="0" x2="450" y2="320" />
+    <line x1="550" y1="0" x2="550" y2="320" />
+    <line x1="650" y1="0" x2="650" y2="320" />
+    <line x1="750" y1="0" x2="750" y2="320" />
+    <line x1="850" y1="0" x2="850" y2="320" />
+    <!-- Horizontal Grid lines -->
+    <line x1="0" y1="40" x2="900" y2="40" />
+    <line x1="0" y1="120" x2="900" y2="120" />
+    <line x1="0" y1="200" x2="900" y2="200" />
+    <line x1="0" y1="280" x2="900" y2="280" />
+  </g>
+
+  <!-- Twinkling Starfield -->
+  <g id="starfield">
+    <circle class="star star-s1" cx="80" cy="60" r="1.5" />
+    <circle class="star star-s2" cx="190" cy="40" r="1" />
+    <circle class="star star-s3" cx="280" cy="90" r="2" />
+    <circle class="star star-s4" cx="120" cy="220" r="1" />
+    <circle class="star star-s1" cx="70" cy="270" r="1.5" />
+    <circle class="star star-s2" cx="210" cy="250" r="2.5" />
+    <circle class="star star-s3" cx="340" cy="290" r="1" />
+    <circle class="star star-s4" cx="380" cy="50" r="1.5" />
+    
+    <circle class="star star-s1" cx="810" cy="70" r="1" />
+    <circle class="star star-s2" cx="720" cy="50" r="2" />
+    <circle class="star star-s3" cx="620" cy="90" r="1.5" />
+    <circle class="star star-s4" cx="840" cy="210" r="2.5" />
+    <circle class="star star-s1" cx="780" cy="260" r="1" />
+    <circle class="star star-s2" cx="680" cy="280" r="1.5" />
+    <circle class="star star-s3" cx="580" cy="290" r="2" />
+    <circle class="star star-s4" cx="540" cy="30" r="1" />
+  </g>
+
+  <!-- Rotating Nebula Glows -->
+  <g class="nebula-container">
+    <ellipse cx="400" cy="150" rx="280" ry="120" fill="url(#nebula-cyan)" />
+    <ellipse cx="500" cy="170" rx="220" ry="140" fill="url(#nebula-pink)" />
+    <ellipse cx="430" cy="160" rx="180" ry="180" fill="url(#nebula-purple)" />
+  </g>
+
+  <!-- Futuristic Holographic HUD -->
+  <g>
+    <!-- Outer dashed HUD ring -->
+    <circle class="hud-ring hud-ring-outer" cx="450" cy="160" r="140" stroke-dasharray="10, 20" />
+    <!-- Inner custom-dashed HUD ring -->
+    <circle class="hud-ring hud-ring-inner" cx="450" cy="160" r="110" stroke-dasharray="80, 5, 20, 5" />
+    <!-- Central tiny coordinate ring -->
+    <circle class="coord-ring" cx="450" cy="160" r="60" />
+    <!-- Radar sweeping line -->
+    <line class="radar-sweep" x1="450" y1="160" x2="450" y2="45" />
+  </g>
+
+  <!-- Center Text Group -->
+  <g>
+    <text class="main-title" x="456" y="174">NICODOLAS</text>
+    <text class="tagline" x="450" y="225">> STELLAR VOYAGE COMMENCING...</text>
+  </g>
+</svg>
