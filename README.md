@@ -218,19 +218,11 @@
 
 <br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" width="600" />
+<img src="https://nicoquote.vercel.app/api/quotes/random/image?theme=dark&font=bevietnampro&width=700&radius=16&borderWidth=4&italic=true&boldAuthor=true" alt="Random Quote" width="700" />
 
 <br/><br/>
 
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║   "Đường đi khó, không khó vì ngăn sông cách núi,            ║
-║    mà khó vì lòng người ngại núi e sông."                    ║
-║                                        — Nguyễn Bá Học       ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
+
 
 <br/>
 
