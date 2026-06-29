@@ -218,7 +218,7 @@
 
 <br/>
 
-<img src="https://nicoquote.vercel.app/api/quotes/random/image?theme=dark&font=bevietnampro&width=700&radius=16&borderWidth=4&italic=true&boldAuthor=true" alt="Random Quote" width="700" />
+<img src="https://nicoquote.vercel.app/api/quotes/random/image?theme=dark&font=bevietnampro&width=700&radius=16&borderWidth=4&italic=true&boldAuthor=true&v=2" alt="Random Quote" width="700" />
 
 <br/><br/>
 
