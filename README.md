@@ -142,9 +142,9 @@
 
 <!-- STATS ROW -->
 
-<img src="https://github-readme-stats.vercel.app/api?username=nicodolas&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00C9FF&text_color=FFFFFF&count_private=true" alt="GitHub Stats" height="180" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nicodolas&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00C9FF&text_color=FFFFFF&count_private=true" alt="GitHub Stats" height="180" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicodolas&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=FFFFFF&count_private=true" alt="Top Languages" height="180" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nicodolas&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=FFFFFF&count_private=true" alt="Top Languages" height="180" />
 
 <br/><br/>
 
