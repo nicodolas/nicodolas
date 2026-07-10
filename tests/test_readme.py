@@ -18,6 +18,12 @@ class ReadmeTestCase(unittest.TestCase):
 
     @classmethod
     def setUpClass(cls):
+        """
+        Load the README content and its individual lines for the test class.
+        
+        Parameters:
+        	cls (type): The test class receiving the shared README data.
+        """
         cls.content = README_PATH.read_text(encoding="utf-8")
         cls.lines = cls.content.splitlines()
 
@@ -27,6 +33,7 @@ class TestReadmeExists(ReadmeTestCase):
         self.assertTrue(README_PATH.is_file(), "README.md must exist at repo root")
 
     def test_readme_is_not_empty(self):
+        """Verify that the README contains non-whitespace content."""
         self.assertGreater(len(self.content.strip()), 0)
 
 
@@ -47,6 +54,7 @@ class TestProfileViewsAndStatsSection(ReadmeTestCase):
         )
 
     def test_followers_badge_present(self):
+        """Verify that the README contains the GitHub followers badge with its expected alternative text."""
         self.assertIn(
             "https://img.shields.io/github/followers/nicodolas", self.content
         )
@@ -73,6 +81,7 @@ class TestGithubStatsMetricsHeading(ReadmeTestCase):
         self.assertNotIn("## GitHub Stats", self.lines)
 
     def test_heading_appears_exactly_once(self):
+        """Verify that the GitHub Stats & Metrics heading appears exactly once."""
         count = sum(1 for line in self.lines if line == "## GitHub Stats & Metrics")
         self.assertEqual(count, 1)
 
@@ -212,6 +221,7 @@ class TestMarkupStructureIntegrity(ReadmeTestCase):
     """Structural sanity checks that apply across the whole modified document."""
 
     def test_div_center_tags_are_balanced(self):
+        """Verify that centered div elements are present and properly closed."""
         open_count = len(re.findall(r'<div align="center">', self.content))
         close_count = len(re.findall(r"</div>", self.content))
         self.assertGreater(open_count, 0)
@@ -236,11 +246,13 @@ class TestMarkupStructureIntegrity(ReadmeTestCase):
         )
 
     def test_no_unresolved_merge_markers(self):
+        """Verify that the README contains no unresolved merge-conflict markers."""
         for marker in ("<<<<<<<", "=======", ">>>>>>>"):
             with self.subTest(marker=marker):
                 self.assertNotIn(marker, self.content)
 
     def test_expected_section_headings_all_present(self):
+        """Verify that the README contains all required section headings."""
         expected_headings = [
             "## About Me",
             "## Tech Stack",
