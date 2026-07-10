@@ -150,7 +150,7 @@ Full-Stack & Odoo ERP Developer specializing in performant web applications usin
 <img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=C8A2C8&logo=typescript&logoColor=white" alt="TypeScript" />
 <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&color=B5EAD7&logo=python&logoColor=white" alt="Python" />
 <img src="https://img.shields.io/badge/Framework-React-informational?style=flat&color=E9C5E9&logo=react&logoColor=white" alt="React" />
-<img src="https://img.shields.io/badge/Framework-Next.js-informational?style=flat&color=C8A2C8&logo=next.js&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Framework-Next.js-informational?style=flat&color=C8A2C8&logo=nextdotjs&logoColor=white" alt="Next.js" />
 <img src="https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&color=B5EAD7&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 
 <br/><br/>
