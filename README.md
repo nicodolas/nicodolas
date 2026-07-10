@@ -134,7 +134,7 @@ Full-Stack & Odoo ERP Developer specializing in performant web applications usin
 
 <!-- CONTRIBUTION CALENDAR - ADVANCED -->
 
-<img src="https://github-readme-contribution-grid-snake.vercel.app/snake.svg?username=nicodolas&snake=github-light&cellSize=6&thickness=2&columns=16&backgroundColor=transparent" alt="GitHub Contribution Snake" width="100%" />
+<img src="https://raw.githubusercontent.com/nicodolas/nicodolas/output/github-snake.svg" alt="GitHub Contribution Snake" width="100%" />
 
 </div>
 
