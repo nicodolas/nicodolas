@@ -28,9 +28,13 @@
 
 <br/><br/>
 
-<!-- PROFILE VIEWS -->
+<!-- PROFILE VIEWS & STATS -->
 
 <img src="https://komarev.com/ghpvc/?username=nicodolas&style=for-the-badge&color=B5EAD7&base=header" alt="Profile Views" />
+&nbsp;
+<img src="https://img.shields.io/github/followers/nicodolas?style=for-the-badge&color=E9C5E9&label=Followers&logoColor=white" alt="GitHub Followers" />
+&nbsp;
+<img src="https://img.shields.io/github/stars/nicodolas?style=for-the-badge&color=C8A2C8&label=Total%20Stars" alt="Total Stars" />
 
 </div>
 
@@ -65,7 +69,7 @@ Full-Stack & Odoo ERP Developer specializing in performant web applications usin
 
 <div align="center">
 
-## GitHub Stats
+## GitHub Stats & Metrics
 
 <br/>
 
@@ -106,6 +110,62 @@ Full-Stack & Odoo ERP Developer specializing in performant web applications usin
 
 <div align="center">
 
+## Coding Activity & Contributions
+
+<br/>
+
+<!-- WAKATIME STATS -->
+
+[![wakatime stats](https://wakatime.com/badge/user/nicodolas.svg?style=for-the-badge)](https://wakatime.com/@nicodolas)
+
+<br/><br/>
+
+<!-- GITHUB METRICS - MULTIPLE VIEWS -->
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicodolas&theme=github_light" alt="GitHub Profile Summary" width="100%" />
+
+<br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nicodolas&theme=github_light" alt="Most Commit Language" width="48%" />
+&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nicodolas&theme=github_light" alt="Repos Per Language" width="48%" />
+
+<br/><br/>
+
+<!-- CONTRIBUTION CALENDAR - ADVANCED -->
+
+<img src="https://github-readme-contribution-grid-snake.vercel.app/snake.svg?username=nicodolas&snake=github-light&cellSize=6&thickness=2&columns=16&backgroundColor=transparent" alt="GitHub Contribution Snake" width="100%" />
+
+</div>
+
+---
+
+<div align="center">
+
+## Developer Badges & Recognition
+
+<br/>
+
+<img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=E9C5E9&logo=javascript&logoColor=white" alt="JavaScript" />
+<img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=C8A2C8&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Code-Python-informational?style=flat&color=B5EAD7&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/Framework-React-informational?style=flat&color=E9C5E9&logo=react&logoColor=white" alt="React" />
+<img src="https://img.shields.io/badge/Framework-Next.js-informational?style=flat&color=C8A2C8&logo=next.js&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&color=B5EAD7&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&color=E9C5E9&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&color=C8A2C8&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Editor-NeoVim-informational?style=flat&color=B5EAD7&logo=neovim&logoColor=white" alt="NeoVim" />
+<img src="https://img.shields.io/badge/IDE-VS_Code-informational?style=flat&color=E9C5E9&logo=visual-studio-code&logoColor=white" alt="VS Code" />
+
+</div>
+
+---
+
+<div align="center">
+
 ## Recent Activity
 
 <picture>
@@ -120,7 +180,7 @@ Full-Stack & Odoo ERP Developer specializing in performant web applications usin
 
 <div align="center">
 
-## Random Quote
+## Random Inspiration
 
 <img src="https://nicoquote.vercel.app/api/quotes/random/image?theme=dark&font=bevietnampro&width=700&radius=16&borderWidth=4&italic=true&boldAuthor=true&v=2" alt="Random Quote" width="700" />
 
@@ -130,6 +190,40 @@ Full-Stack & Odoo ERP Developer specializing in performant web applications usin
 
 <div align="center">
 
+## Let's Connect
+
+<a href="mailto:nvanhieuk13@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+</a>
+&nbsp;
+<a href="https://www.nekovibecoder.site/">
+  <img src="https://img.shields.io/badge/Portfolio-8B7BA8?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+</a>
+&nbsp;
+<a href="https://github.com/nicodolas">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- STATS FROM THIRD-PARTY SERVICES -->
+
+<img src="https://img.shields.io/badge/Profile_Views-Tracked-B5EAD7?style=flat-square" alt="Profile Views Tracked" />
+&nbsp;
+<img src="https://img.shields.io/badge/Last_Updated-2024-E9C5E9?style=flat-square" alt="Last Updated" />
+&nbsp;
+<img src="https://img.shields.io/badge/Auto_Updated_By-GitHub_Actions-C8A2C8?style=flat-square" alt="Auto Updated" />
+
+<br/><br/>
+
 💚 **Thanks for visiting!** If you find value in my work, consider giving a ⭐ to my repos!
+
+<br/>
+
+*This profile is automatically updated daily via GitHub Actions* ⚙️
 
 </div>
