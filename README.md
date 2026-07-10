@@ -1,35 +1,25 @@
 <div align="center">
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- GALAXY COSMIC HEADER BANNER -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<img src="./assets/galaxy_header.svg" alt="Cosmic Cyberpunk Space Portal" width="100%" />
-
-<br/><br/>
-
-<!-- TYPING ANIMATION -->
+<!-- TYPING ANIMATION - PASTEL COLORS -->
 
 <a href="https://git.io/typing-svg">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FFC6FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%F0%9F%9A%80+Crafting+premium+GitHub+READMEs;%F0%9F%92%BB+Master+of+PERN+Stack;%E2%9A%99%EF%B8%8F+Customizing+Odoo+ERP;%E2%9C%A8+Turning+caffeine+into+code;%F0%9F%8C%8C+Pushing+pixels+in+the+matrix" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=6D558A&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%F0%9F%9A%80+Crafting+premium+GitHub+READMEs;%F0%9F%92%BB+Master+of+PERN+Stack;%E2%9A%99%EF%B8%8F+Customizing+Odoo+ERP;%E2%9C%A8+Turning+caffeine+into+code;%F0%9F%8C%8C+Pushing+pixels+in+the+matrix" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=FFC6FF&center=true&vCenter=true&repeat=true&width=700&height=45&lines=%F0%9F%9A%80+Crafting+premium+GitHub+READMEs;%F0%9F%92%BB+Master+of+PERN+Stack;%E2%9A%99%EF%B8%8F+Customizing+Odoo+ERP;%E2%9C%A8+Turning+caffeine+into+code;%F0%9F%8C%8C+Pushing+pixels+in+the+matrix" alt="Typing SVG" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=E9C5E9&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Full-Stack+%26+Odoo+ERP+Developer;PERN+Stack+%7C+Next.js+%7C+React;PostgreSQL+%7C+Node.js+%7C+Express;Crafting+clean+code+%26+solutions" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=C8A2C8&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Full-Stack+%26+Odoo+ERP+Developer;PERN+Stack+%7C+Next.js+%7C+React;PostgreSQL+%7C+Node.js+%7C+Express;Crafting+clean+code+%26+solutions" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=E9C5E9&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Full-Stack+%26+Odoo+ERP+Developer;PERN+Stack+%7C+Next.js+%7C+React;PostgreSQL+%7C+Node.js+%7C+Express;Crafting+clean+code+%26+solutions" alt="Typing SVG" />
   </picture>
 </a>
 
 <br/><br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
 <!-- SOCIAL LINKS -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <a href="mailto:nvanhieuk13@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
 &nbsp;
 <a href="https://www.nekovibecoder.site/">
-  <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
+  <img src="https://img.shields.io/badge/Portfolio-8B7BA8?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio" />
 </a>
 &nbsp;
 <a href="https://github.com/nicodolas">
@@ -40,90 +30,42 @@
 
 <!-- PROFILE VIEWS -->
 
-<img src="https://komarev.com/ghpvc/?username=nicodolas&style=for-the-badge&color=00c9ff&base=header" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=nicodolas&style=for-the-badge&color=B5EAD7&base=header" alt="Profile Views" />
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- SECTION DIVIDER -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<img src="./assets/cosmic_divider.svg" alt="Divider" width="100%" />
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- ABOUT ME -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+---
 
 <div align="center">
 
-## 🪐 `> STELLAR_SYSTEM.INITIALIZE()` 🪐
+## About Me
 
 </div>
 
-```text
-    ,______________.     nicodolas@spaceship-console
-   /              /|     ---------------------------
-  /             /  |     OS: Debian GNU/Linux / macOS
- /____________/    |     Host: Nguyễn Văn Hiếu (nicodolas)
-|  _________  |    |     Kernel: PERN Stack & Odoo ERP
-| |  >_     | |    |     Uptime: 20+ years of cosmic curiosity
-| |         | |    |     Shell: zsh / bash / powershell
-| |_________| |    |     Editor: VS Code / NeoVim
-|             |  /       CPU: Coffee ☕ & Clean Layouts 🎨
- \___________/  /        RAM: 16GB Focus / 8GB Stellar Dust
-   [_________]--'
-```
-
-<div align="center">
-
-> 🚀 **Full-Stack & Odoo ERP Developer** — I specialize in crafting performant web applications using the **PERN stack (PostgreSQL, Express, React, Node.js)** and **Next.js**, alongside building custom enterprise solutions with **Odoo ERP**. I am passionate about clean architecture, modular system customization, and designing premium GitHub Profile READMEs. 🌌
+Full-Stack & Odoo ERP Developer specializing in performant web applications using the **PERN stack** (PostgreSQL, Express, React, Node.js) and **Next.js**, alongside building custom enterprise solutions with **Odoo ERP**. Passionate about clean architecture, modular system design, and creating elegant solutions.
 
 <br/>
 
-| 💻 Frontend Craft | ⚙️ Backend & ERP | 🎨 Profile Architecture |
+| Frontend | Backend & ERP | Tools |
 |---|---|---|
-| React, Next.js & Tailwind | Node.js, Express & PostgreSQL | Custom CSS/SVG Animations |
-| Responsive & Modern UI | Odoo ERP (Python, XML, JS) | Premium README Layouts |
+| React, Next.js, Tailwind | Node.js, Express, PostgreSQL | Git, Docker, NeoVim |
+| Responsive Modern UI | Odoo ERP Customization | Clean Code Architecture |
 
-<br/>
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- SECTION DIVIDER -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<img src="./assets/cosmic_divider.svg" alt="Divider" width="100%" />
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- TECH STACK -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+---
 
 <div align="center">
 
-## 🛸 `> ORBITAL_MODULES.LAUNCH()` 🛸
+## Tech Stack
 
-<br/>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,python,postgresql,mongodb,git,docker,prisma&theme=dark&perline=6" alt="Tech Stack" />
-
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,python,postgresql,mongodb,git,docker,prisma&theme=light&perline=6" alt="Tech Stack" />
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- SECTION DIVIDER -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<img src="./assets/cosmic_divider.svg" alt="Divider" width="100%" />
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- GITHUB STATS -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+---
 
 <div align="center">
 
-## 🌌 `> COSMIC_STATS.SCAN()` 🌌
+## GitHub Stats
 
 <br/>
 
@@ -142,41 +84,29 @@
 
 <!-- STATS ROW -->
 
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nicodolas&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF88&icon_color=00C9FF&text_color=FFFFFF&count_private=true" alt="GitHub Stats" height="180" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nicodolas&show_icons=true&theme=github_light&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
 &nbsp;&nbsp;
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nicodolas&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF88&text_color=FFFFFF&count_private=true" alt="Top Languages" height="180" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nicodolas&layout=compact&theme=github_light&hide_border=true&count_private=true" alt="Top Languages" height="180" />
 
 <br/><br/>
 
 <!-- STREAK -->
 
-<img src="https://streak-stats.demolab.com/?user=nicodolas&theme=radical&hide_border=true&background=0D1117&stroke=00FF88&ring=00C9FF&fire=FF6B6B&currStreakLabel=00FF88&count_private=true" alt="GitHub Streak" width="700" />
+<img src="https://streak-stats.demolab.com/?user=nicodolas&theme=default_repocard&hide_border=true" alt="GitHub Streak" width="700" />
 
 <br/><br/>
 
 <!-- ACTIVITY GRAPH -->
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=nicodolas&theme=react-dark&hide_border=true&area=true&bg_color=0D1117&color=00FF88&line=00C9FF&point=92FE9D" alt="Activity Graph" width="100%" />
-
-<br/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nicodolas&theme=github-light&hide_border=true&area=true" alt="Activity Graph" width="100%" />
 
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- SECTION DIVIDER -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<img src="./assets/cosmic_divider.svg" alt="Divider" width="100%" />
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- CONTRIBUTION SNAKE -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+---
 
 <div align="center">
 
-## ☄️ `> STELLAR_SNAKE.ORBIT()` ☄️
-
-<br/>
+## Recent Activity
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nicodolas/nicodolas/output/github-snake-dark.svg" />
@@ -184,56 +114,22 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/nicodolas/nicodolas/output/github-snake-dark.svg" />
 </picture>
 
-<br/>
-
 </div>
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- SECTION DIVIDER -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<img src="./assets/cosmic_divider.svg" alt="Divider" width="100%" />
-
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- FUN ZONE -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-## 🚀 `> LOG_BOOK.READ()` 🚀
-
-<br/>
-
-🔥 I believe **great code** is like a **well-designed system** — it needs solid architecture, clean flow, and attention to detail.
-
-⚙️ Current side quest: Deep-diving into **Odoo ERP module customization** and robust workflows with **PERN stack**.
-
-🌱 Always learning, always building, always styling profiles (and breaking/fixing them... mostly).
-
-🎯 **2026 Goals**: Master Odoo ERP architecture • Publish open-source Odoo modules • Craft even more stunning profile designs 🚀
-
-<br/>
 
 ---
 
-<br/>
+<div align="center">
+
+## Random Quote
 
 <img src="https://nicoquote.vercel.app/api/quotes/random/image?theme=dark&font=bevietnampro&width=700&radius=16&borderWidth=4&italic=true&boldAuthor=true&v=2" alt="Random Quote" width="700" />
 
-<br/><br/>
-
-
-
-<br/>
-
-💚 **Thanks for visiting my profile!** If you like what you see, consider giving a ⭐ to my repos!
-
-<br/>
-
 </div>
 
-<!-- ═══════════════════════════════════════════════════════════════════ -->
-<!-- FOOTER -->
-<!-- ═══════════════════════════════════════════════════════════════════ -->
+---
 
-<img src="./assets/galaxy_footer.svg" alt="Footer" width="100%" />
+<div align="center">
+
+💚 **Thanks for visiting!** If you find value in my work, consider giving a ⭐ to my repos!
+
+</div>
