@@ -214,7 +214,7 @@ Full-Stack & Odoo ERP Developer specializing in performant web applications usin
 
 <img src="https://img.shields.io/badge/Profile_Views-Tracked-B5EAD7?style=flat-square" alt="Profile Views Tracked" />
 &nbsp;
-<img src="https://img.shields.io/badge/Last_Updated-2024-E9C5E9?style=flat-square" alt="Last Updated" />
+<img src="https://img.shields.io/badge/Last_Updated-Daily-E9C5E9?style=flat-square" alt="Last Updated Daily" />
 &nbsp;
 <img src="https://img.shields.io/badge/Auto_Updated_By-GitHub_Actions-C8A2C8?style=flat-square" alt="Auto Updated" />
 
