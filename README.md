@@ -163,19 +163,6 @@ Full-Stack & Odoo ERP Developer specializing in performant web applications usin
 </div>
 
 ---
-
-<div align="center">
-
-## Recent Activity
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nicodolas/nicodolas/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nicodolas/nicodolas/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/nicodolas/nicodolas/output/github-snake-dark.svg" />
-</picture>
-
-</div>
-
 ---
 
 <div align="center">
