@@ -1,12 +1,12 @@
 <div align="center">
 
-<!-- TYPING ANIMATION - PASTEL COLORS -->
+<!-- TYPING ANIMATION -->
 
 <a href="https://git.io/typing-svg">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=E9C5E9&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Full-Stack+%26+Odoo+ERP+Developer;PERN+Stack+%7C+Next.js+%7C+React;PostgreSQL+%7C+Node.js+%7C+Express;Crafting+clean+code+%26+solutions" />
-    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=C8A2C8&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Full-Stack+%26+Odoo+ERP+Developer;PERN+Stack+%7C+Next.js+%7C+React;PostgreSQL+%7C+Node.js+%7C+Express;Crafting+clean+code+%26+solutions" />
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=E9C5E9&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Full-Stack+%26+Odoo+ERP+Developer;PERN+Stack+%7C+Next.js+%7C+React;PostgreSQL+%7C+Node.js+%7C+Express;Crafting+clean+code+%26+solutions" alt="Typing SVG" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=E9C5E9&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Odoo+ERP+Developer;HR+%7C+Payroll+%7C+Recruitment;Custom+Module+%7C+ORM+%7C+QWeb;Translating+Business+into+Odoo" />
+    <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=C8A2C8&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Odoo+ERP+Developer;HR+%7C+Payroll+%7C+Recruitment;Custom+Module+%7C+ORM+%7C+QWeb;Translating+Business+into+Odoo" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=E9C5E9&center=true&vCenter=true&repeat=true&width=700&height=45&lines=Odoo+ERP+Developer;HR+%7C+Payroll+%7C+Recruitment;Custom+Module+%7C+ORM+%7C+QWeb;Translating+Business+into+Odoo" alt="Typing SVG" />
   </picture>
 </a>
 
@@ -28,8 +28,6 @@
 
 <br/><br/>
 
-<!-- PROFILE VIEWS & STATS -->
-
 <img src="https://komarev.com/ghpvc/?username=nicodolas&style=for-the-badge&color=B5EAD7&base=header" alt="Profile Views" />
 &nbsp;
 <img src="https://img.shields.io/github/followers/nicodolas?style=for-the-badge&color=E9C5E9&label=Followers&logoColor=white" alt="GitHub Followers" />
@@ -46,14 +44,58 @@
 
 </div>
 
-Full-Stack & Odoo ERP Developer specializing in performant web applications using the **PERN stack** (PostgreSQL, Express, React, Node.js) and **Next.js**, alongside building custom enterprise solutions with **Odoo ERP**. Passionate about clean architecture, modular system design, and creating elegant solutions.
+Odoo ERP Developer focused on building and customizing enterprise solutions with **Odoo v14–17**. I specialize in clean module architecture, ORM patterns, and translating complex business requirements — especially in **HR & People Operations** — into maintainable Odoo customizations.
 
 <br/>
 
-| Frontend | Backend & ERP | Tools |
-|---|---|---|
-| React, Next.js, Tailwind | Node.js, Express, PostgreSQL | Git, Docker, NeoVim |
-| Responsive Modern UI | Odoo ERP Customization | Clean Code Architecture |
+| Core Skills | Tools |
+|---|---|
+| Custom Module Development | Python, PostgreSQL |
+| ORM, QWeb, XML Views | Git, Docker, Linux |
+| Security Rules, Access Control | GitHub Actions |
+
+---
+
+<div align="center">
+
+## Odoo ERP Expertise
+
+<br/>
+
+<img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo" />
+&nbsp;
+<img src="https://img.shields.io/badge/Odoo_14--17-714B67?style=flat-square&logo=odoo&logoColor=white" alt="Odoo v14-17" />
+&nbsp;
+<img src="https://img.shields.io/badge/Python_ORM-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python ORM" />
+&nbsp;
+<img src="https://img.shields.io/badge/QWeb_Templates-714B67?style=flat-square&logo=odoo&logoColor=white" alt="QWeb" />
+&nbsp;
+<img src="https://img.shields.io/badge/XML_Views-E34F26?style=flat-square&logo=html5&logoColor=white" alt="XML Views" />
+
+</div>
+
+<br/>
+
+**Core skills:**
+
+- **Custom Modules** — `__manifest__.py`, models, views, security, data files following Odoo conventions
+- **ORM & Models** — computed fields, `onchange`, constraints, `_inherit` / `_inherits`, relational fields
+- **Views & QWeb** — Form, List, Kanban, Calendar views; QWeb reports and PDF templates
+- **Security** — `ir.model.access.csv`, record rules (`ir.rule`), user groups, multi-company support
+- **Deployment** — Docker-based Odoo setup, PostgreSQL tuning, config management
+
+<br/>
+
+**Modules worked with:**
+
+| Module | Experience |
+|---|---|
+| **HR & Payroll** | Employee profiles, contracts, payslip rules, salary structures, leave management, attendance tracking |
+| **Recruitment** | Job positions, applicant pipeline, stage automation, interview scheduling |
+| **Sales & CRM** | Quotations, pricelists, lead pipeline, customer follow-ups |
+| **Purchase** | RFQ → PO → Receipt → Vendor Bill workflow, vendor price lists |
+| **Inventory** | Stock moves, reordering rules, multi-warehouse, valuation (FIFO/AVCO) |
+| **Accounting** | Journal entries, invoicing, tax configuration, bank reconciliation |
 
 ---
 
@@ -61,7 +103,7 @@ Full-Stack & Odoo ERP Developer specializing in performant web applications usin
 
 ## Tech Stack
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs,express,python,postgresql,mongodb,git,docker,prisma&theme=light&perline=6" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=python,postgresql,git,docker,linux&theme=light&perline=5" alt="Tech Stack" />
 
 </div>
 
@@ -73,20 +115,14 @@ Full-Stack & Odoo ERP Developer specializing in performant web applications usin
 
 <br/>
 
-<!-- TROPHY -->
-
 <img src="https://raw.githubusercontent.com/nicodolas/nicodolas/main/profile-3d-contrib/trophies.svg?v=3" alt="GitHub Trophies" width="100%" />
 
 <br/><br/>
-
-<!-- 3D CONTRIBUTION CITY -->
 
 <img src="https://raw.githubusercontent.com/nicodolas/nicodolas/main/profile-3d-contrib/profile-night-rainbow.svg?v=3#gh-dark-mode-only" alt="GitHub 3D Contribution Graph" width="100%" />
 <img src="https://raw.githubusercontent.com/nicodolas/nicodolas/main/profile-3d-contrib/profile-season-animate.svg?v=3#gh-light-mode-only" alt="GitHub 3D Contribution Graph" width="100%" />
 
 <br/><br/>
-
-<!-- STATS ROW -->
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nicodolas&show_icons=true&theme=github_light&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
 &nbsp;&nbsp;
@@ -94,13 +130,9 @@ Full-Stack & Odoo ERP Developer specializing in performant web applications usin
 
 <br/><br/>
 
-<!-- STREAK -->
-
 <img src="https://streak-stats.demolab.com/?user=nicodolas&theme=default_repocard&hide_border=true" alt="GitHub Streak" width="700" />
 
 <br/><br/>
-
-<!-- ACTIVITY GRAPH -->
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nicodolas&theme=github-light&hide_border=true&area=true" alt="Activity Graph" width="100%" />
 
@@ -114,13 +146,9 @@ Full-Stack & Odoo ERP Developer specializing in performant web applications usin
 
 <br/>
 
-<!-- WAKATIME STATS -->
-
 [![wakatime stats](https://wakatime.com/badge/user/nicodolas.svg?style=for-the-badge)](https://wakatime.com/@nicodolas)
 
 <br/><br/>
-
-<!-- GITHUB METRICS - MULTIPLE VIEWS -->
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nicodolas&theme=github_light" alt="GitHub Profile Summary" width="100%" />
 
@@ -132,37 +160,10 @@ Full-Stack & Odoo ERP Developer specializing in performant web applications usin
 
 <br/><br/>
 
-<!-- CONTRIBUTION CALENDAR - ADVANCED -->
-
 <img src="https://raw.githubusercontent.com/nicodolas/nicodolas/output/github-snake.svg" alt="GitHub Contribution Snake" width="100%" />
 
 </div>
 
----
-
-<div align="center">
-
-## Developer Badges & Recognition
-
-<br/>
-
-<img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=E9C5E9&logo=javascript&logoColor=white" alt="JavaScript" />
-<img src="https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=C8A2C8&logo=typescript&logoColor=white" alt="TypeScript" />
-<img src="https://img.shields.io/badge/Code-Python-informational?style=flat&color=B5EAD7&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/Framework-React-informational?style=flat&color=E9C5E9&logo=react&logoColor=white" alt="React" />
-<img src="https://img.shields.io/badge/Framework-Next.js-informational?style=flat&color=C8A2C8&logo=nextdotjs&logoColor=white" alt="Next.js" />
-<img src="https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&color=B5EAD7&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&color=E9C5E9&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&color=C8A2C8&logo=docker&logoColor=white" alt="Docker" />
-<img src="https://img.shields.io/badge/Editor-NeoVim-informational?style=flat&color=B5EAD7&logo=neovim&logoColor=white" alt="NeoVim" />
-<img src="https://img.shields.io/badge/IDE-VS_Code-informational?style=flat&color=E9C5E9&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-
-</div>
-
----
 ---
 
 <div align="center">
@@ -191,16 +192,8 @@ Full-Stack & Odoo ERP Developer specializing in performant web applications usin
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
 </a>
 
-</div>
+<br/><br/>
 
----
-
-<div align="center">
-
-<!-- STATS FROM THIRD-PARTY SERVICES -->
-
-<img src="https://img.shields.io/badge/Profile_Views-Tracked-B5EAD7?style=flat-square" alt="Profile Views Tracked" />
-&nbsp;
 <img src="https://img.shields.io/badge/Last_Updated-Daily-E9C5E9?style=flat-square" alt="Last Updated Daily" />
 &nbsp;
 <img src="https://img.shields.io/badge/Auto_Updated_By-GitHub_Actions-C8A2C8?style=flat-square" alt="Auto Updated" />
