@@ -28,7 +28,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=nicodolas&style=for-the-badge&color=B5EAD7&base=header" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=nicodolas" alt="Profile Views" />
 &nbsp;
 <img src="https://img.shields.io/github/followers/nicodolas?style=for-the-badge&color=E9C5E9&label=Followers&logoColor=white" alt="GitHub Followers" />
 &nbsp;
