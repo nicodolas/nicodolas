@@ -44,7 +44,7 @@
 
 </div>
 
-Odoo ERP Developer focused on building and customizing enterprise solutions with **Odoo v14–17**. I specialize in clean module architecture, ORM patterns, and translating complex business requirements — especially in **HR & People Operations** — into maintainable Odoo customizations.
+Odoo ERP Developer focused on building and customizing enterprise solutions with **Odoo v19**. I specialize in clean module architecture, ORM patterns, and translating complex business requirements — especially in **HR & People Operations** — into maintainable Odoo customizations.
 
 <br/>
 
@@ -61,10 +61,7 @@ Odoo ERP Developer focused on building and customizing enterprise solutions with
 ## Odoo ERP Expertise
 
 <br/>
-
-<img src="https://img.shields.io/badge/Odoo-714B67?style=for-the-badge&logo=odoo&logoColor=white" alt="Odoo" />
-&nbsp;
-<img src="https://img.shields.io/badge/Odoo_14--17-714B67?style=flat-square&logo=odoo&logoColor=white" alt="Odoo v14-17" />
+<img src="https://img.shields.io/badge/Odoo_19-714B67?style=flat-square&logo=odoo&logoColor=white" alt="Odoo v19" />
 &nbsp;
 <img src="https://img.shields.io/badge/Python_ORM-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python ORM" />
 &nbsp;
